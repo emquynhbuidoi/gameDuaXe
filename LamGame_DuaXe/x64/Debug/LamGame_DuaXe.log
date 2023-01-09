@@ -1,0 +1,26 @@
+﻿  Source.cpp
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(66,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(66,35): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(545,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(550,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(555,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(560,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(615,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(620,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(700,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(705,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(761,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(765,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(773,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(777,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(785,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(789,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(802,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(806,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(863,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(865,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(874,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(876,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(885,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\LamGame_DuaXe\Source.cpp(887,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LamGame_DuaXe.vcxproj -> E:\.A Học CODE\C,C++\Lam Game\LamGame_DuaXe\x64\Debug\LamGame_DuaXe.exe
